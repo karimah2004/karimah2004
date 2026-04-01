@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Karimah Mohammed
-- 👀 I’m interested in Ui/ Ux design and front end development
-- 🌱 I’m currently learning python and react.js
 - 📫 How to reach me- https://www.linkedin.com/in/karimahmohammed/  
 
 <!---
